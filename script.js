@@ -78,6 +78,9 @@ document.querySelector(".restart").addEventListener("click", function () {
   selectedWord = words[Math.floor(Math.random() * words.length)];
   console.log(selectedWord);
 
+  guessList = [];
+  wrongGuessList = [];
+
   document.querySelector(".word_display").textContent = " ";
   document.querySelector(".wrong_guesses").textContent = "";
   document.querySelector(".message").textContent = " ";
