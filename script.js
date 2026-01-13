@@ -35,6 +35,7 @@ document.querySelector(".guess").addEventListener("click", function () {
   } else {
     wrongGuessList.push(letter);
     maxAttempts--;
+    document.querySelector(".attempts_left").textContent = maxAttempts;
     document.querySelector(".word_display").style.background = "red";
   }
 
