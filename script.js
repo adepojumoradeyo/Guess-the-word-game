@@ -1,14 +1,10 @@
 const words = [
-  "hi",
-  "pen",
-  "gun",
   "javascript",
   "developer",
   "function",
   "program",
   "ibudoiya",
   "preacher",
-  "cats",
 ];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
