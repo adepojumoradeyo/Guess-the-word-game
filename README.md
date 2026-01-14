@@ -1,2 +1,43 @@
-# Guess-the-word-game
-A simple word guessing game where players guess letters to reveal a hidden word. Correct guesses turn the background green, wrong guesses turn it red
+# Guess The Word Game 🎮
+
+_Author:_ Adepoju Ebunlomo
+
+## 📌 Project Description
+
+A simple interactive word guessing game built with HTML, CSS, and JavaScript.  
+Players guess letters to reveal a hidden word.  
+Correct guesses turn the background green, wrong guesses turn it red.
+
+---
+
+## ✨ Features
+
+- Random word selection
+- Limited attempts (6 tries)
+- Background color feedback
+- Win & lose detection
+- Restart game button
+
+---
+
+## 🚀 Live Demo
+
+https://guess-the-word-game-jet.vercel.app/
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 💻 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/adepojumoradeyo/Guess-the-word-game.git
+```
