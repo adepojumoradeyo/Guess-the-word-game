@@ -4,7 +4,7 @@ _Author:_ Adepoju Ebunlomo
 
 ## 📌 Project Description
 
-A simple interactive word guessing game built with HTML, CSS, and JavaScript.  
+A simple interactive word guessing game built with HTML, Tailwind CSS, and JavaScript.  
 Players guess letters to reveal a hidden word.  
 Correct guesses turn the background green, wrong guesses turn it red.
 
@@ -29,7 +29,7 @@ https://guess-the-word-game-jet.vercel.app/
 ## 🛠️ Technologies Used
 
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
 
 ---
