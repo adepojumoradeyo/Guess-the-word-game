@@ -1,6 +1,6 @@
 # Guess The Word Game 🎮
 
-_Author:_ Adepoju Ebunlomo
+_Author:_ Adepoju E. Moradeyo
 
 ## 📌 Project Description
 
